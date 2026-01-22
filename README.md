@@ -89,11 +89,6 @@ Le système combine **vision par ordinateur**, **deep learning** et une **archit
 - Déploiement sur systèmes edge (Jetson, Raspberry Pi)
 - Ajout de notifications SMS / mobile
 
-
-## 👤 Auteur
-**Imane Karam**  
-Étudiante en ingénierie informatique & intelligence artificielle
-
 ---
 
 ## 📄 Licence
